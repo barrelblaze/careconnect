@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34072149269",
+    "project_id": "careconnect-d4755",
+    "storage_bucket": "careconnect-d4755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34072149269:android:81f6a35c6140d92934fd1c",
+        "android_client_info": {
+          "package_name": "com.example.orphanagemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3_asVtEb8WH4pYnggXv8T8Z6bu7jnRcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
